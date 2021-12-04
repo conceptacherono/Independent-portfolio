@@ -1,0 +1,23 @@
+img { 
+    float:left;
+    border-radius: 50%;
+}
+
+.column {
+    width: 350px;
+    float: left;
+}
+.box {
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    border-top: 8px solid black;
+    border-bottom: 8px solid black;
+  }
+  body { 
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: plum;
+  }
+  h1 {
+      text-decoration: underline;
+  }
