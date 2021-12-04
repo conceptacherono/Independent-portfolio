@@ -1,7 +1,7 @@
 README.md
- ## Project name.
-Independent-portfolio
-This is a website about me,my life,my education,my interests and how Moringa school is so far!!.
+ ## Project name
+ Independent-portfolio
+This project is about me and life starting up in the programming world.lt is also about studying in Moringa school.
 
 Technologies Used
 Technologies I have used in the project are HTML & CSS (Bootstrap)
