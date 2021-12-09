@@ -1,6 +1,6 @@
-img { 
+.hero { 
     float:left;
-    border-radius: 50%;
+    border-radius: 150%;
 }
 
 .column {
@@ -20,4 +20,18 @@ img {
   }
   h1 {
       text-decoration: underline;
+  }
+  ul li{
+      padding: 20px;
+
+  }
+  ul{
+      list-style-type: none;
+      display: flex;
+      float: right;
+  }
+  .git {
+      width: 64px;
+      height: 64px;
+      margin: right;
   }
